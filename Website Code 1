@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Pyramid Home Page</title>
+<style>
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  #background-color: #4CAF50;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+</style>
+</head>
+<body>
+<div class="topnav">
+  <a class="active" href="https://www.w3schools.com/code/tryit.asp?filename=GOAZGM0Q5JRG">Home</a>
+  <a href="#product">Product</a>
+  <a href="#FAQ">FAQ</a>
+  <a href="#about">About</a>
+</div>
+<h1 style="background-color:DodgerBlue;">Pyramid Co.</h1>
+
+<p class="aligncenter">
+    <img src="https://cdn.discordapp.com/attachments/809902607799812127/809924761194463242/https___cdn.cnn.com_cnnnext_dam_assets_171204142317-colorscope-orange-image-sunset.png" height= 400 width= 600 alt="centered image" />
+</p>
+<p>Introducing Coconut shells!</p>
+<p>An amazing product that will be sure to 
+</body>
+</html>
